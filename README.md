@@ -14,7 +14,7 @@ This analysis uses Open Weather Map API to pull weather information on 723 diffe
 
 
 ## Vacation Search
-This folder combines the information from the weather database and combines it with Google Maps API to map out the different hotel desinations in the cities that were found with the latitude and longitude coordinates that were generated.  The figure below mapped out all the locations on the list with temperatures that range from 75 - 90 degrees farinheit. 
+This folder uses the information from the weather database file and combines it with Google Maps API to map out the different hotel desinations in the cities that were found with the latitude and longitude coordinates that were generated.  The figure below mapped out all the locations on the list with temperatures that range from 75 - 90 degrees farinheit. 
 
 ![](Vacation_Search/WeatherPy_Vacation_map.png)
 
