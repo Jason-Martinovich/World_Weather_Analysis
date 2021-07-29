@@ -18,9 +18,8 @@ This folder combines the information from the weather database and combines it w
 
 ![](Vacation_Search/WeatherPy_Vacation_map.png)
 
-picture. 
-
 ## Vacation Itinerary
 This folder takes the hotel search information and uses the Google Maps diretictions API to create a road trip itinerary.  The figure below shows a trip with 4 cities that include: Broome, Jamestome, Altoona and Westport.
 
-picture. 
+![](Vacation_Itinerary/WeatherPy_travel_map.png)
+![](WeatherPy_travel_map_markers.png)
